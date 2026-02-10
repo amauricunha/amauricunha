@@ -1,42 +1,51 @@
-# Amauri Cunha - Product Manager and Software Developer 🚀
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/user-attachments/assets/9dae0dae-cfd9-4055-ae1e-8ec11cefba39">
+# Amauri Cunha 🚀 
+## R&D Systems Architect & Advanced Engineering Leader | Physical AI, Automotive Software & Connectivity | Smart Mobility & Industry 4.0
 
+<img align="right" alt="Coding" width="380" src="https://github.com/user-attachments/assets/9dae0dae-cfd9-4055-ae1e-8ec11cefba39">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/amauricunhabr/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amauricunha)
+I am an **R&D Systems Architect** operating at the intersection of **Automotive Software Engineering**, **High-Performance Computing (HPC)** and **Physical AI**.
 
----
-
-
-### About Me
-
-I am a **Product Owner** and **Software Developer** with a focus on **Back-end** and **Industry 4.0** applications. I have experience leading teams and implementing solutions for monitoring and analyzing complex systems.
-
-- **Current Role**: Product Owner and Developer focused on Industry 4.0 enabling technologies.
-- **Areas of Interest**: Product Management, Vehicle Systems, Software and Data Engineering, and Industry 4.0.
-- **Contact**: [dev.cunha@outlook.com](mailto:dev.cunha@outlook.com)
+My professional focus is leading the architecture of complex ecosystems for autonomous systems validation and Industry 4.0, bridging the gap between critical hardware infrastructure and advanced simulation software.
 
 ---
 
-### Technical Skills
+### 🔭 Current Leadership & Research
 
-- **Software Development**: Experienced in developing solutions tailored for Industry 4.0 environments.
-- **Data Engineering**: Skilled in collecting, processing, and analyzing large volumes of data for operational, tactical, and strategic insights.
-- **Project and Product Management**: Leadership in agile teams, with a focus on innovation, continuous delivery, and process and product improvement.
-
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amauricunha&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amauricunha&layout=compact&theme=dark)
+- **HPC & AI Infrastructure**: Architecting supercomputing environments (**NVIDIA DGX/H200**) for physical simulation and deep learning workloads.
+- **Digital Twins & V&V**: Developing data pipelines and simulation frameworks for **Verification & Validation**.
+- **Smart Mobility**: Designing connectivity and cybersecurity (**Zero-Trust**) strategies for critical research environments.
+- **Physical AI**: Exploring **NVIDIA Omniverse** and **Isaac Sim** for training autonomous agents and optimizing industrial processes.
 
 ---
 
-### Contact
+### 🛠️ Technical Stack & Expertise
 
-- Email: [dev.cunha@outlook.com](mailto:dev.cunha@outlook.com)
-- LinkedIn: [linkedin.com/in/amauricunhabr/](https://www.linkedin.com/in/amauricunhabr/)
+**Core Architecture & Simulation**
+- **Infrastructure**: NVIDIA AI Enterprise, Slurm Workload Manager, DGX Systems, Network and Cybersecurity.
+- **Simulation**: NVIDIA Omniverse, Isaac Sim, Universal Scene Description (USD)
+- **Cloud & Edge**:  Docker and Hybrid Cloud Architectures
+
+**Development & Data Engineering**
+- **Languages**: Python (AI/Data), C++ (Embedded/Simulation)
+- **Data Ops**: Apache Airflow and Industrial Data Lakes
+- **Protocols**: MQTT, V2X standards, CAN/Automotive Ethernet
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amauricunha&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Amauri's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauricunha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amauricunhabr/)
+- **Email**: [dev.cunha@outlook.com](mailto:dev.cunha@outlook.com)
+- **Location**: Florianópolis, SC - Brazil (Open to International Relocation 🌍)
 
 ---
 <details align="left">
@@ -46,3 +55,6 @@ I am a **Product Owner** and **Software Developer** with a focus on **Back-end**
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Image by vectorjuice on <a href="https://www.freepik.com/free-vector/software-development-team-abstract-concept-illustration_11668746.htm#fromView=search&page=1&position=3&uuid=02400e85-cb29-448f-bfa0-ea1e320e84ce">Freepik</a>  (edited by author)
 </details>
+<!--
+**AmauriCunha/AmauriCunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
