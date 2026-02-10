@@ -13,7 +13,7 @@ My professional focus is leading the architecture of complex ecosystems for auto
 
 - **HPC & AI Infrastructure**: Architecting supercomputing environments (**NVIDIA DGX/H200**) for physical simulation and deep learning workloads.
 - **Digital Twins & V&V**: Developing data pipelines and simulation frameworks for **Verification & Validation**.
-- **Smart Mobility**: Designing connectivity and cybersecurity (**Zero-Trust**) strategies for critical research environments.
+- **Smart Mobility**: Automtive Software Enginer Specialyst & Designing connectivity and cybersecurity (**Zero-Trust**) strategies for critical research environments.
 - **Physical AI**: Exploring **NVIDIA Omniverse** and **Isaac Sim** for training autonomous agents and optimizing industrial processes.
 
 ---
@@ -32,12 +32,11 @@ My professional focus is leading the architecture of complex ecosystems for auto
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Professional Highlight
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amauricunha&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Amauri's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauricunha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+**Senior R&D Architect @ SENAI/SC**
+Leading a **$3 million** project focused on implementing world-class AI, PLM, and 5G infrastructure for applied research, in addition to working as an AI researcher.
+* *Key Achievement:* Architecture and deployment of NVIDIA DGX clusters for Deep Learning and Physical Simulation workloads.
 
 ---
 
